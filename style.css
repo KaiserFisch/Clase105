@@ -1,0 +1,16 @@
+body{
+    background-image:url('fondo.jpg');
+    color:aliceblue;
+}
+.heading {
+    width: 30%;
+    font-size: 25px;
+}
+#camera {
+border:10px dashed lightskyblue ;
+width: 500px;
+height: 500px;
+}
+.NameofObjects,#result_object_name,#result_object_accuracy {
+    color: lightblue;
+}
